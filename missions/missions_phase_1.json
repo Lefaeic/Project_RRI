@@ -1,0 +1,156 @@
+[
+	{
+		"title": "ANTEBELLUM",
+		"faction": "HORUS // IMI",
+		"brief": "Assasinate HA Chief Engineer Stanford Blake.",
+		"players": [
+			"Ashwinder",
+			"Needed: 2"
+		],
+		"priority": "Medium",
+		"encryption": "LAMET",
+		"details": "Harrison Armory 24th Fleet has been observed departing Ras Shimra towards the Sylvanas system. IMI fears a second invasion is imminent and has requested out help to delay the coming conflict. Ashwinder's cell has uncovered the location of HA Chief Enginneer Stanford Blake, a suspected member of HA Skunk Works. Do what must be done.",
+		"tags": [
+			"Assassination",
+			"Infiltration",
+			"Low Combat"
+		]
+	},
+	{
+		"title": "SCARLET STORM",
+		"faction": "HORUS // SSC",
+		"brief": "Recover an NHP fragment the MIXCOATL metavault.",
+		"players": [
+			"None",
+			"Needed: 3"
+		],
+		"priority": "Low",
+		"encryption": "ALEPH",
+		"details": "An NHP fragment was encountered in the recently unearthed MIXCOATL valut on the SSC wolrd of Arcadium. Predictions from Roland suggest it may be a fragment of P'thia. The SSC has discretely offered HORUS OPCOM the fragment in exchage for our help in exploring the metavault.",
+		"tags": [
+			"Recon",
+			"Exploration",
+			"High Risk"
+		]
+	},
+	{
+		"title": "SNAKE EYES",
+		"faction": "UAM // CHI",
+		"brief": "Assist in the develompent of PG NS-9J",
+		"players": [
+			"Ulysses",
+			"Needed: 2"
+		],
+		"priority": "Low",
+		"encryption": "KAF",
+		"details": "Ulysses has established a new manufacturer, a wing of CHI-EX named Ulysses Arms Manufacturing. He is looking for test pilots to assist in the combat trials of his first design: the Nightstar.",
+		"tags": [
+			"PvP",
+			"Unlocks New Tech",
+			"Low Risk"
+		]
+	},
+	{
+		"title": "SYMPHONY",
+		"faction": "SOLAS // UIB/GALCOMM",
+		"brief": "Establish contact with the Choir.",
+		"players": [
+			"Swordmaster",
+			"Needed: 2"
+		],
+		"priority": "High",
+		"encryption": "HATHOR/ALEPH",
+		"details": "SOLAS agents have been approached by UIB/GALCOMM. In light of recent and future events, the Choir has requested out presense on Mars.",
+		"tags": [
+			"Stealth",
+			"No Combat",
+			"Lore"
+		]
+	},
+	{
+		"title": "DAMOCLES BREAK",
+		"faction": "HORUS // UN 5TH FLEET",
+		"brief": "Destroy the UN-DN Warlock",
+		"players": [
+			"None",
+			"Needed: 3"
+		],
+		"priority": "Medium",
+		"encryption": "SAMECH",
+		"details": "GMS project K2 has been completed. The resulting ships, the Warlock and the Gargoyle have entered service with the 5th Fleet and 7th Fleet. Horus agents have intercepted coded transmissions revealing the location of 5th Fleet and a joint fleet is being assembled for engagement.",
+		"tags": [
+			"BATTLEGROUP System",
+			"High Risk",
+			"High Potential Casualties"
+		]
+	},
+	{
+		"title": "BLOOD TIDE",
+		"faction": "HORUS // RA",
+		"brief": "Retrieve a Veil shard from Lh'owon",
+		"players": [
+			"RA",
+			"Needed: 4"
+		],
+		"priority": "High",
+		"encryption": "HATHOR/ALEPH",
+		"details": "RA has requested a Lancer party to revisit Lh'owon. As the Marathon was damaged after its recent Veil jump, anomalies are expected during the trip. Size Half mechs only.",
+		"tags": [
+			"Horror",
+			"Low Combat",
+			"High Risk"
+		]
+	},
+	{
+		"title": "DIVIDE BY ZERO",
+		"faction": "HI // IPS-N",
+		"brief": "Assist the HI in the upcoming referendum.",
+		"players": [
+			"None",
+			"Needed: 2"
+		],
+		"priority": "Medium",
+		"encryption": "QOF",
+		"details": "The Horizon Initiative has contacted us with worrying information. Harrison and the Karrakin Baronies have moved for a referendum to decide whether to remain in the Union. SSC remains neutral, while IPS-N is against. Assist the Horrizon Initiative in organizing a sufficient voting block to veto the motion.",
+		"tags": [
+			"No Combat",
+			"Politics",
+			"High Risk"
+		]
+	},
+	{
+		"title": "FALSE START",
+		"faction": "HORUS // SOLAS",
+		"brief": "Assist in the terraforming of Rubicon 3.",
+		"players": [
+			"None",
+			"Needed: 2"
+		],
+		"priority": "High",
+		"encryption": "BET",
+		"details": "After the loss of the Solas system, 7 billion refugees have moved to Rubicon 3. The casket planet of Roland is, however, not suited for long term habitation. Assist Chi Xang and the Patriox in using the Forge to terraform the planet.",
+		"tags": [
+			"No Combat",
+			"Lore",
+			"Low Risk"
+		]
+	},
+	{
+		"title": "KINGSLAYER",
+		"faction": "HORUS // RRI",
+		"brief": "Finish the NEXT project.",
+		"players": [
+			"Chi Xang",
+			"Needed: 3"
+		],
+		"priority": "Low",
+		"encryption": "HATHOR/ALEPH",
+		"details": "The demise of the Hela/Raven subjectivity has left Horus' next-gen frame projects unfinished. Project NEXT was the furthest along and Chi Xang has requested its reactivation and completion.",
+		"tags": 
+		[
+			"Low Combat",
+			"Unlocks New Tech",
+			"Low Risk"
+		]
+	}
+]
