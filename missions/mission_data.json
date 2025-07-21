@@ -1,0 +1,22 @@
+[
+  {
+    "title": "OPERATION VIOLET TEETH",
+    "faction": "HORUS // NEON SIGIL",
+    "brief": "Recover an NHP fragment from the mind of a dead god.",
+    "players": [ "Shadow", "Retro", "Gork" ],
+    "priority": "High",
+    "status": "Available",
+    "details": "An NHP fragment was encountered in the dead thoughtspace of the Cyning. Horus wants it. You probably don’t. Go anyway.",
+    "tags": ["Recon", "Digital", "Existential Risk"]
+  },
+  {
+    "title": "SHELL GAME",
+    "faction": "HORUS // SILVER ARRAY",
+    "brief": "Test a prototype chassis in hostile territory.",
+    "players": [ "Grave", "Phoenix" ],
+    "priority": "Medium",
+    "status": "Ongoing",
+    "details": "The testbed mech has no failsafes, limited structure, and may attempt to override your commands. Success means funding. Failure means meat rain.",
+    "tags": ["Field Test", "Dangerous", "Unethical"]
+  }
+]
