@@ -106,8 +106,8 @@
 		"faction": "HI // IPS-N",
 		"brief": "Assist the HI in the upcoming referendum.",
 		"players": [
-			"None",
-			"Needed: 2"
+			"Femto",
+			"Needed: 1"
 		],
 		"priority": "Medium",
 		"encryption": "QOF",
