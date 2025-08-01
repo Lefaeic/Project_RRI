@@ -56,7 +56,8 @@
 		"brief": "Establish contact with the Choir.",
 		"players": [
 			"Swordmaster",
-			"Needed: 2"
+			"Grave",
+			"Needed: 1"
 		],
 		"priority": "High",
 		"encryption": "HATHOR/ALEPH",
@@ -90,7 +91,8 @@
 		"brief": "Retrieve a Veil shard from Lh'owon",
 		"players": [
 			"RA",
-			"Needed: 4"
+			"Grave",
+			"Needed: 3"
 		],
 		"priority": "High",
 		"encryption": "HATHOR/ALEPH",
@@ -141,7 +143,8 @@
 		"brief": "Finish the NEXT project.",
 		"players": [
 			"Chi Xang",
-			"Needed: 3"
+			"Grave",
+			"Needed: 2"
 		],
 		"priority": "Low",
 		"encryption": "HATHOR/ALEPH",
