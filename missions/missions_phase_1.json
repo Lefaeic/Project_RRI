@@ -73,8 +73,8 @@
 		"faction": "HORUS // UN 5TH FLEET",
 		"brief": "Destroy the UN-DN Warlock",
 		"players": [
-			"None",
-			"Needed: 3"
+			"Thrasher",
+			"Needed: 2"
 		],
 		"priority": "Medium",
 		"encryption": "SAMECH",
@@ -92,7 +92,8 @@
 		"players": [
 			"RA",
 			"Grave",
-			"Needed: 3"
+			"Thrasher",
+			"Needed: 2"
 		],
 		"priority": "High",
 		"encryption": "HATHOR/ALEPH",
@@ -125,8 +126,8 @@
 		"faction": "HORUS // SOLAS",
 		"brief": "Assist in the terraforming of Rubicon 3.",
 		"players": [
-			"None",
-			"Needed: 2"
+			"Thrasher",
+			"Needed: 1"
 		],
 		"priority": "High",
 		"encryption": "BET",
