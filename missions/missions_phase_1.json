@@ -21,8 +21,8 @@
 		"faction": "HORUS // SSC",
 		"brief": "Recover an NHP fragment from the MIXCOATL metavault.",
 		"players": [
-			"None",
-			"Needed: 3"
+			"Grave",
+			"Needed: 2"
 		],
 		"priority": "Low",
 		"encryption": "ALEPH",
