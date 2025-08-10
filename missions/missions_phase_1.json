@@ -60,7 +60,7 @@
 		"players": [
 			"Swordmaster",
 			"Grave",
-			"Needed: 1"
+			"Pilgrim"
 		],
 		"priority": "High",
 		"encryption": "HATHOR/ALEPH",
@@ -96,7 +96,8 @@
 			"RA",
 			"Grave",
 			"Thrasher",
-			"Needed: 2"
+			"Pilgrim",
+			"Needed: 1"
 		],
 		"priority": "High",
 		"encryption": "HATHOR/ALEPH",
