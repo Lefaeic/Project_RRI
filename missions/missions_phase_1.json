@@ -5,7 +5,8 @@
 		"brief": "Assassinate HA Chief Engineer Stanford Blake.",
 		"players": [
 			"Ashwinder",
-			"Needed: 2"
+			"Bloodhound",
+			"Needed: 1"
 		],
 		"priority": "Medium",
 		"encryption": "LAMET",
@@ -22,7 +23,8 @@
 		"brief": "Recover an NHP fragment from the MIXCOATL metavault.",
 		"players": [
 			"Grave",
-			"Needed: 2"
+			"Seer",
+			"Needed: 1"
 		],
 		"priority": "Low",
 		"encryption": "ALEPH",
@@ -39,6 +41,7 @@
 		"brief": "Assist in the development of NS-9J PG",
 		"players": [
 			"Ulysses",
+			"Bangalore",
 			"Needed: 2"
 		],
 		"priority": "Low",
@@ -110,7 +113,7 @@
 		"brief": "Assist the HI in the upcoming referendum.",
 		"players": [
 			"Femto",
-			"Needed: 1"
+			"Caustic"
 		],
 		"priority": "Medium",
 		"encryption": "QOF",
@@ -127,7 +130,7 @@
 		"brief": "Assist in the terraforming of Rubicon 3.",
 		"players": [
 			"Thrasher",
-			"Needed: 1"
+			"Lifeline"
 		],
 		"priority": "High",
 		"encryption": "BET",
@@ -145,7 +148,7 @@
 		"players": [
 			"Chi Xang",
 			"Grave",
-			"Needed: 2"
+			"Gork"
 		],
 		"priority": "Low",
 		"encryption": "HATHOR/ALEPH",
