@@ -6,7 +6,7 @@
 		"players": [
 			"Ashwinder",
 			"Bloodhound",
-			"Needed: 1"
+			"Pilgrim"
 		],
 		"priority": "Medium",
 		"encryption": "LAMET",
@@ -24,7 +24,7 @@
 		"players": [
 			"Grave",
 			"Seer",
-			"Needed: 1"
+			"Echidna"
 		],
 		"priority": "Low",
 		"encryption": "ALEPH",
