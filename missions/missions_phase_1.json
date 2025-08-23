@@ -42,7 +42,7 @@
 		"players": [
 			"Ulysses",
 			"Bangalore",
-			"Needed: 1"
+			"Shadow"
 		],
 		"priority": "Low",
 		"encryption": "KAF",
@@ -77,7 +77,7 @@
 		"brief": "Destroy the UN-DN Warlock",
 		"players": [
 			"Thrasher",
-			"Needed: 2"
+			"Shadow"
 		],
 		"priority": "Medium",
 		"encryption": "SAMECH",
@@ -97,7 +97,7 @@
 			"Grave",
 			"Thrasher",
 			"Pilgrim",
-			"Needed: 1"
+			"Shadow"
 		],
 		"priority": "High",
 		"encryption": "HATHOR/ALEPH",
